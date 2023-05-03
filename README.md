@@ -36,6 +36,6 @@ SYSTEM SCREENSHOTS
 
 INSTALLATION LINK
 
-PLAYSTORE LINK:
+PLAYSTORE LINK: https://play.google.com/store/apps/details?id=com.isnaad
 
-APP STORE LINK:
+APP STORE LINK: https://apps.apple.com/us/app/isnaad/id1638320059
