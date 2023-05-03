@@ -32,4 +32,10 @@ Ticketing System
 
 SYSTEM SCREENSHOTS
 
-<img src = "1" width ="300" /> <img src = "2" width ="300" /> <img src = "3" width ="300" /> <img src = "4" width ="300" /> <img src = "5" width ="300" /> <img src = "6" width ="300" /> <img src = "7" width ="300" /> <img src = "8" width ="300" /> <img src = "9" width ="300" /> <img src = "10" width ="300" /> <img src = "11" width ="300" /> <img src = "12" width ="300" /> <img src = "13" width ="300" /> <img src = "14" width ="300" /> <img src = "15" width ="300" /> <img src = "16" width ="300" /> <img src = "17" width ="300" />
+<img src = "1.jpg" width ="300" /> <img src = "2.jpg" width ="300" /> <img src = "3.jpg" width ="300" /> <img src = "4.jpg" width ="300" /> <img src = "5.jpg" width ="300" /> <img src = "6.jpg" width ="300" /> <img src = "7.jpg" width ="300" /> <img src = "8.jpg" width ="300" /> <img src = "9.jpg" width ="300" /> <img src = "10.jpg" width ="300" /> <img src = "11.jpg" width ="300" /> <img src = "12.jpg" width ="300" /> <img src = "13.jpg" width ="300" /> <img src = "14.jpg" width ="300" /> <img src = "15" width ="300" /> <img src = "16.jpg" width ="300" /> <img src = "17.jpg" width ="300" />
+
+INSTALLATION LINK
+
+PLAYSTORE LINK:
+
+APP STORE LINK:
