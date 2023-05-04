@@ -30,6 +30,14 @@ Ticketing System
 3. Ticket Assignment
 4. Tickets History
 
+TECHNICALITIES USED
+1. Flutter Framework
+2. SQL Database
+3. Cubit State Management
+4. REST APIs
+5. File Management
+6. Fingerprint Authentication
+
 SYSTEM SCREENSHOTS
 
 <img src = "1.jpg" width ="250" /> <img src = "2.jpg" width ="250" /> <img src = "3.jpg" width ="250" /> <img src = "4.jpg" width ="250" /> <img src = "5.jpg" width ="250" /> <img src = "6.jpg" width ="250" /> <img src = "7.jpg" width ="250" /> <img src = "8.jpg" width ="250" /> <img src = "9.jpg" width ="250" /> <img src = "10.jpg" width ="250" /> <img src = "11.jpg" width ="250" /> <img src = "12.jpg" width ="250" /> <img src = "13.jpg" width ="250" /> <img src = "14.jpg" width ="250" /> <img src = "15" width ="250" /> <img src = "16.jpg" width ="250" /> <img src = "17.jpg" width ="250" />
